@@ -1,4 +1,5 @@
 class Point {
+	String color;
 	String id
 	double x,y;
 
