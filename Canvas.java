@@ -1,7 +1,7 @@
-class canvasFeature {
+class Canvas {
     List<Point> points;
 
-    public canvasFeature(List<Point> points) {
+    public Canvas(List<Point> points) {
         this.points = points;
     }
 
